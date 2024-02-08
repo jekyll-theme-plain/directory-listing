@@ -1,3 +1,3 @@
-# single-page
+# directory-listing
 
-Template for single-page sites
+Template for directory listings
